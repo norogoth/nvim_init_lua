@@ -33,6 +33,8 @@
 </p>
 </div>
 
+*Note: This is a FORK of nvim kickstarter and the below is from the original*
+
 # Introduction
 
 This repo hosts my Nvim configuration for Linux, macOS, and Windows.
